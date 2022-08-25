@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     String[] arr = { "India","Chennai", "Coimbatore","Pollachi","London",
-            "Kovilpatti", "Rajapalayam"};
+            "Kovilpatti", "Viruthunagar"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
